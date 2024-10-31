@@ -1,4 +1,4 @@
-# 18S NemaBase Database for wf-metagenomics in EPI2ME
+# 18S NemaBase Database for wf-metagenomics
 
 This repository contains files to enable the use of the [18SNemaBase](https://github.com/WormsEtAl/18SNemaBase) database for the wf-metagenomics workflow in EPI2ME. N.B. we have updated the `18S_NemaBase.fasta` file to use underscores in place of any spaces in the reference names to ensure proper mappings.
 
